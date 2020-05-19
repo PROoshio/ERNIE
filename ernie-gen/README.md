@@ -18,11 +18,8 @@ English | [简体中文](./README.zh.md)
 
 For technical description of the algorithm, please see our paper:
 >[_**ERNIE-GEN:An Enhanced Multi-Flow Pre-training and Fine-tuning Framework for Natural Language Generation**_](https://arxiv.org/abs/2001.11314.pdf)
-
 >Dongling Xiao\*, Han Zhang\*, Yukun Li, Yu Sun, Hao Tian, Hua Wu, Haifeng Wang (\* : equal contribution)
-
 >Preprint January 2020
-
 >Accepted by **IJCAI-2020**
 
 
